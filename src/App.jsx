@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route} from "react-router-dom";
+import {Routes, Route} from "react-router-dom";
 
 import PerAyat from "./Pages/PerAyat";
 import Perjuz from "./Pages/PerJuz";
